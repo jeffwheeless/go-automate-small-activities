@@ -1,0 +1,1 @@
+# go-automate-small-activities
